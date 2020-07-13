@@ -1,0 +1,44 @@
+# MechaCar Statistical Analysis
+
+## Multiple Linear Regression
+
+1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+	Per the multiple linear regression analysis, it can be observed that by using a significance level of 0.05 the vehicle length and ground clearance variables do no provide a random amount of variance to the linear model. This means that the vehicle length and ground clearance have a significant impact on the mileage per gallon of the vehicle.
+
+2. Is the slope of the linear model considered to be zero? Why or why not?
+
+The p-value of the linear model analysis is 5.35e-11, which is much smaller than the assumed significance level of 0.05%. Therefore, it can state that there is sufficient evidence to reject the null hypothesis, which means that the slope of the linear model is not zero.
+
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+There are much more factors that can affect the mpg variable which are not considered in this studio. After observing the linear model, there are only 2 factors that are not randomly affecting the mpg, and the rest of the variables are. More variables are needed to better conclude what factors can better predict the mpg. Factors like engine cylinders, horse power, and others might provide more clear observations. 
+
+##Suspension Coil Summary
+
+Per the statistics summary, the mean and median are practically the same, this means that data set that has a symmetrical distribution. The minimum value is 1452 and maximum value is 1542. 
+
+1. Does the current manufacturing data meet this design specification? Why or why not?
+
+Yes it meets the manufacturing data specifications as the variation does not exceed 100 pounds per inch.
+
+2. Determine if the suspension coil’s pound-per-inch results are statistically different from the mean population results of 1,500 pounds per inch.
+
+Both th population and the sample have the exact same mean. Sample is considering 30 items from the list while the total population is 150. The mean for the total population is 1499 while the sample slightly changes to 1497 while the mean is still 1500. Both have a similar standard distribution.. 
+
+## Individual study.
+
+If we wanted to compare efficiency between MechaCars against the competition, we could look for information about fuel efficiency in comparison to vehicle size and engine size. A large vehicle is preferred amongst a large percentage of consumers, yet one of the most common setbacks is the fuel efficiency of a large car. In Mecha cars we have answer some questions as to how the vehicle size and ground clearance affects the mpg performance. Naturally the larger the vehicle, the mpg will be lower. We can compare vehicle aerodynamics and as to how the structure of the vehicle affects the speed in highway drive. One other aspect to consider is the vehicle manufacturing materials, a lot of costs can be saved depending on which materials are being used. For example, a black or gray car will be cheaper as these paint colors, as they are more abundant, the more vehicles can be manufactured and the costs are lower. A study on how vehicle color affects sales should be performed to determine this aspects. Use of other strong materials could lower the costs of the vehicle manufacturing without compromising the security of the vehicle. Aspects like security, appearance, fuel efficiency and vehicle price are the most important for a customer when looking for a new vehicle. 
+
+For which of these aspects can be costs be reduced?
+
+To answer this question a hypothesis can be generated. 
+
+### Consumers are more interested in fuel efficiency and security, than appearance and used components for manufacturing.
+
+The null hypothesis would be, 
+
+### Appearance and manufacturing components are very important parameters consumers analyze before buying a vehicle. 
+
+
+Statistical analysis for appearance vs. sales, security vs. sales and all of these aspects vs. price vs. sales can be performed to differentiate Mecha form the competition. Costs reduction is what now a days help a company shine.
