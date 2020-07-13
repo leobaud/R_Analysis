@@ -35,11 +35,11 @@ For which of these aspects can be costs be reduced?
 
 To answer this question a hypothesis can be generated. 
 
-### Consumers are more interested in fuel efficiency and security, than appearance and used components for manufacturing.
+#### Consumers are more interested in fuel efficiency and security, than appearance and used components for manufacturing.
 
 The null hypothesis would be, 
 
-### Appearance and manufacturing components are very important parameters consumers analyze before buying a vehicle. 
+#### Appearance and manufacturing components are very important parameters consumers analyze before buying a vehicle. 
 
 
 Statistical analysis for appearance vs. sales, security vs. sales and all of these aspects vs. price vs. sales can be performed to differentiate Mecha form the competition. Costs reduction is what now a days help a company shine.
