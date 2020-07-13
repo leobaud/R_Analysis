@@ -5,7 +5,7 @@
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-	Per the multiple linear regression analysis, it can be observed that by using a significance level of 0.05 the vehicle length and ground clearance variables do no provide a random amount of variance to the linear model. This means that the vehicle length and ground clearance have a significant impact on the mileage per gallon of the vehicle.
+Per the multiple linear regression analysis, it can be observed that by using a significance level of 0.05 the vehicle length and ground clearance variables do no provide a random amount of variance to the linear model. This means that the vehicle length and ground clearance have a significant impact on the mileage per gallon of the vehicle.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
@@ -15,7 +15,7 @@ The p-value of the linear model analysis is 5.35e-11, which is much smaller than
 
 There are much more factors that can affect the mpg variable which are not considered in this studio. After observing the linear model, there are only 2 factors that are not randomly affecting the mpg, and the rest of the variables are. More variables are needed to better conclude what factors can better predict the mpg. Factors like engine cylinders, horse power, and others might provide more clear observations. 
 
-##Suspension Coil Summary
+## Suspension Coil Summary
 
 Per the statistics summary, the mean and median are practically the same, this means that data set that has a symmetrical distribution. The minimum value is 1452 and maximum value is 1542. 
 
